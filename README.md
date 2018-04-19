@@ -2,6 +2,7 @@
 <h1 align="center">GUESS THE QUOTE</h1>
 
 It is a fun quiz game which is a  progressive web app(PWA). Built during Collaborative Projects in Google Udacity Mobile Web Specialist Scholarship.This project is built to dive further deep into PWA and learn about caching music and animations using service worker.
+Basically the quiz game asks the user to guess who said the particular quote which will be mentioned under different categories, also it will show every information related to that particular quote including the books where the quote can be found, the websites and the images too which are available on google images.For rich experience of the user there will also be a speech recognition tool so that a person can even speak quote and the app will display all the information, references and sources of that particular quote using music and animations. 
 
 ## Table Of Contents
 
